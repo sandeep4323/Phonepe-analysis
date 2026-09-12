@@ -167,3 +167,16 @@ Since Wrong PIN, Server error, and Insufficient amount are now grouped as **Pend
 
 ---
 
+## 👨‍💻 Author
+
+**Sandeep Dass**
+
+Aspiring Data Analyst | Excel | Power Query | Power Pivot | DAX | SQL | Python | Power BI
+
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/sandeep-dass-a9857030a/
+* 📧 **Email:** 43sandeepdas@gmail.com
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
+
