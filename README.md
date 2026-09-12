@@ -141,15 +141,6 @@ Since Wrong PIN, Server error, and Insufficient amount are now grouped as **Pend
 
 ---
 
-## 🚀 Future Scope
-
-- Add a dedicated **Pending-transaction drill-down view** using the `Reason` column, now that Payment_Status itself is simplified.
-- Add a **map visual** if a location/state field becomes available in the source data.
-- Hide helper "Previous Month" measures from the report view to keep the fields list clean.
-- Fix the `Succesfull transaction` measure name (typo) and rename `Calc` to something descriptive.
-- Extend dynamic insight text to also call out the **lowest**-performing category, not just the highest, for a more complete narrative.
-
----
 
 ## 🧰 Tech Stack
 
